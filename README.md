@@ -48,7 +48,7 @@ The **color parameter (c)** shows a clear systematic offset between datasets for
 ├── data/
 │   ├── Pantheon+/          # Pantheon+ dataset
 │   ├── DES/                # DES 5yr dataset
-│   └── Clusters/                # DES 5yr dataset
+│   └── Clusters/                # SDSS DR7 galaxy clusters data
 ├── notebooks/
 │   ├── 01_data_overview.ipynb
 │   ├── 02_survey_analysis.ipynb
